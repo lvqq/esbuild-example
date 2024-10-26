@@ -19,7 +19,7 @@
     "@typescript-eslint/parser": "catalog:",
     "@vitejs/plugin-vue": "^5.1.4",
     "eslint": "catalog:",
-    "eslint-plugin-vue": "^9.26.0",
+    "eslint-plugin-vue": "^9.29.1",
     "husky": "catalog:",
     "jsdom": "catalog:",
     "lint-staged": "catalog:",
