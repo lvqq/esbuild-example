@@ -28,7 +28,7 @@
     "vite": "catalog:",
     "vitest": "catalog:",
     "vue-eslint-parser": "^9.4.3",
-    "vue-tsc": "^2.1.6"
+    "vue-tsc": "^2.1.8"
   },
   "lint-staged": {
     "**/*.{ts,vue}": [
