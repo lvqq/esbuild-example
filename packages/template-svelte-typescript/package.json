@@ -26,7 +26,7 @@
     "jsdom": "catalog:",
     "lint-staged": "catalog:",
     "prettier": "catalog:",
-    "prettier-plugin-svelte": "^3.2.7",
+    "prettier-plugin-svelte": "^3.2.8",
     "svelte": "^4.2.19",
     "svelte-check": "^4.0.6",
     "tslib": "catalog:",
