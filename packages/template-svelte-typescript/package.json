@@ -28,7 +28,7 @@
     "prettier": "catalog:",
     "prettier-plugin-svelte": "^3.2.8",
     "svelte": "^4.2.19",
-    "svelte-check": "^4.0.8",
+    "svelte-check": "^4.0.9",
     "tslib": "catalog:",
     "typescript": "catalog:",
     "vite": "catalog:",
