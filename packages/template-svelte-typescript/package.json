@@ -21,7 +21,7 @@
     "eslint-config-prettier": "catalog:",
     "eslint-plugin-import": "catalog:",
     "eslint-plugin-prettier": "catalog:",
-    "eslint-plugin-svelte": "^2.46.0",
+    "eslint-plugin-svelte": "^2.46.1",
     "husky": "catalog:",
     "jsdom": "catalog:",
     "lint-staged": "catalog:",
