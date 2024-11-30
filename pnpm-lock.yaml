@@ -369,8 +369,8 @@ importers:
         specifier: 'catalog:'
         version: 8.57.1
       eslint-plugin-vue:
-        specifier: ^9.31.0
-        version: 9.31.0(eslint@8.57.1)
+        specifier: ^9.32.0
+        version: 9.32.0(eslint@8.57.1)
       husky:
         specifier: 'catalog:'
         version: 8.0.3
@@ -2070,8 +2070,8 @@ packages:
       svelte:
         optional: true
 
-  eslint-plugin-vue@9.31.0:
-    resolution: {integrity: sha512-aYMUCgivhz1o4tLkRHj5oq9YgYPM4/EJc0M7TAKRLCUA5OYxRLAhYEVD2nLtTwLyixEFI+/QXSvKU9ESZFgqjQ==}
+  eslint-plugin-vue@9.32.0:
+    resolution: {integrity: sha512-b/Y05HYmnB/32wqVcjxjHZzNpwxj1onBOvqW89W+V+XNG1dRuaFbNd3vT9CLbr2LXjEoq+3vn8DanWf7XU22Ug==}
     engines: {node: ^14.17.0 || >=16.0.0}
     peerDependencies:
       eslint: ^6.2.0 || ^7.0.0 || ^8.0.0 || ^9.0.0
@@ -5949,7 +5949,7 @@ snapshots:
     transitivePeerDependencies:
       - ts-node
 
-  eslint-plugin-vue@9.31.0(eslint@8.57.1):
+  eslint-plugin-vue@9.32.0(eslint@8.57.1):
     dependencies:
       '@eslint-community/eslint-utils': 4.4.0(eslint@8.57.1)
       eslint: 8.57.1
