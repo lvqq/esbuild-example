@@ -81,8 +81,8 @@ importers:
         specifier: 'catalog:'
         version: 5.62.0(eslint@8.57.1)(typescript@5.6.3)
       '@vitest/coverage-v8':
-        specifier: ^2.1.6
-        version: 2.1.6(vitest@2.1.3(@types/node@18.19.56)(jsdom@21.1.2)(sass@1.80.3))
+        specifier: ^2.1.8
+        version: 2.1.8(vitest@2.1.3(@types/node@18.19.56)(jsdom@21.1.2)(sass@1.80.3))
       conventional-changelog-cli:
         specifier: ^2.2.2
         version: 2.2.2
@@ -1236,11 +1236,11 @@ packages:
       vite: ^5.0.0 || ^6.0.0
       vue: ^3.2.25
 
-  '@vitest/coverage-v8@2.1.6':
-    resolution: {integrity: sha512-qItJVYDbG3MUFO68dOZUz+rWlqe9LMzotERXFXKg25s2A/kSVsyS9O0yNGrITfBd943GsnBeQZkBUu7Pc+zVeA==}
+  '@vitest/coverage-v8@2.1.8':
+    resolution: {integrity: sha512-2Y7BPlKH18mAZYAW1tYByudlCYrQyl5RGvnnDYJKW5tCiO5qg3KSAy3XAxcxKz900a0ZXxWtKrMuZLe3lKBpJw==}
     peerDependencies:
-      '@vitest/browser': 2.1.6
-      vitest: 2.1.6
+      '@vitest/browser': 2.1.8
+      vitest: 2.1.8
     peerDependenciesMeta:
       '@vitest/browser':
         optional: true
@@ -4855,7 +4855,7 @@ snapshots:
       vite: 5.4.9(@types/node@18.19.56)(sass@1.80.3)
       vue: 3.5.13(typescript@5.6.3)
 
-  '@vitest/coverage-v8@2.1.6(vitest@2.1.3(@types/node@18.19.56)(jsdom@21.1.2)(sass@1.80.3))':
+  '@vitest/coverage-v8@2.1.8(vitest@2.1.3(@types/node@18.19.56)(jsdom@21.1.2)(sass@1.80.3))':
     dependencies:
       '@ampproject/remapping': 2.3.0
       '@bcoe/v8-coverage': 0.2.3
