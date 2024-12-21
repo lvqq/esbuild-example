@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
-    "@types/react": "^18.3.16",
+    "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@typescript-eslint/eslint-plugin": "catalog:",
     "@typescript-eslint/parser": "catalog:",
