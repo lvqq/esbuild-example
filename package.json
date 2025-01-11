@@ -9,7 +9,7 @@
     "npm": "forbidden, use pnpm",
     "node": ">=18.0.0"
   },
-  "packageManager": "pnpm@9.15.2",
+  "packageManager": "pnpm@9.15.3",
   "scripts": {
     "dev": "pnpm -r --filter=./packages/** run dev",
     "build": "pnpm -r --filter=./packages/** run build ",
